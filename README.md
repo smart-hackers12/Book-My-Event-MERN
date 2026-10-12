@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eventora - Full-Stack Event Booking Platform
 
 Eventora is a full-stack MERN application that allows users to seamlessly browse, register, and pay natively without any third party tools. It features an administrative dashboard for event organizers to create and manage free and paid events. All bookings can be managed manually by an admin to handle payments directly.
@@ -81,3 +82,7 @@ cd client
 npm run dev
 ```
 *(Client will run on a local port provided by Vite, typically `http://localhost:5173`)*
+=======
+# Book-My-Event-MERN
+A full-stack MERN (MongoDB, Express, React, Node.js) event discovery and ticket booking platform featuring live search, filters, user-driven wishlists, dynamic seat tracking, and an interactive customer review system.
+>>>>>>> a3f48ae4279dbca2a4dc904e210718fa2711eca4
